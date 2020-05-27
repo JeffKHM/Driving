@@ -10,4 +10,5 @@ elif country == 'united state':
      	print('You can apply driving license')
      else:
      	print('You cannot apply driving license') 
-     		
+else:
+     print('Only enter malaysia/united state')     		
